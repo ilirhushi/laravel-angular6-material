@@ -4,9 +4,6 @@
 
 This is a simple Single Page Application starter for [Laravel 5.6.x](https://laravel.com) + [Angular 5](https://angular.io/) and [AdminLTE](https://github.com/almasaeed2010/AdminLTE).
 
-#### Notice
-[For the older version with Angular 4 check this branch](https://github.com/ilirhushi/laravel5.5-angular4/tree/angular-4)
-
 ## Installation
 
 - Clone the repository
