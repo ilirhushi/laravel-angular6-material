@@ -13,7 +13,7 @@ This is a simple Single Page Application starter for [Laravel 5.6.x](https://lar
 
 - Clone the repository
 - then run `composer install` and follow Laravel [documentation](https://laravel.com/docs/5.6)
-- and then run `npm install` inside resources/assets/src/my-app directory and follow [Angular CLI Documentation](https://github.com/angular/angular-cli)
+- and then run `npm install` inside `resources/assets/src/angular-app` directory and follow [Angular CLI Documentation](https://github.com/angular/angular-cli)
 
 ## Development server
 
