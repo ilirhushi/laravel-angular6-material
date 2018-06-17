@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+body { margin: 0; }
+
+.sidenav-container {
+    height: 100%;
+}
+
+.sidenav {
+    width: 200px;
+    box-shadow: 3px 0 6px rgba(0,0,0,.24);
+}
+
