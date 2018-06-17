@@ -2,7 +2,7 @@
 
 ![logo](image.jpg "Logo")
 
-This is a simple Single Page Application starter for [Laravel 5.6.x](https://laravel.com) + [Angular 5](https://angular.io/) and [AdminLTE](https://github.com/almasaeed2010/AdminLTE).
+This is a simple Single Page Application starter for [Laravel 5.6.x](https://laravel.com) + [Angular 6](https://angular.io/) and [AdminLTE](https://github.com/almasaeed2010/AdminLTE).
 
 ## Installation
 
