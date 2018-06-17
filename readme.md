@@ -4,6 +4,11 @@
 
 This is a simple Single Page Application starter for [Laravel 5.6.x](https://laravel.com) + [Angular 6](https://angular.io/) and [Material Design](https://material.io/design/).
 
+### Screenshots
+![print-screen](screenshot-1.png "Print Screen 1")
+
+![print-screen](screenshot-2.png "Print Screen 2")
+
 ## Installation
 
 - Clone the repository
